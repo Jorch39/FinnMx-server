@@ -15,7 +15,7 @@ app.use(cors());
 app.use( express.json({ extended : true }));
 
 //Puerto de la app
-const port = process.env.port || 5000;
+const port = process.env.PORT || 5000;
 
 //Importar rutas 
 app.use('/api/users', require('./routes/users'));
@@ -37,7 +37,7 @@ app.use((req, res, next) => {
 
 app.use(cors({
 credentials: true,
-origin: ['https://competent-agnesi-9c644c.netlify.app/'] // <== this will be the URL of our React app (it will be running on port 3000)
+origin: ['https://competent-agnesi-9c644c.netlify.app'] // <== this will be the URL of our React app (it will be running on port 3000)
 // origin: ['http://localhost:3000'] 
 }));
 
