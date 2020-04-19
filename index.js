@@ -25,8 +25,16 @@ app.use('/api/forms', require('./routes/forms'));
 
 //
 app.get('/', (req, res)=> {
-    res.send('Hola Mundo')
+    res.send('FinnMx')
 })
+
+
+
+app.use((req, res, next) => {
+    // If no routes match, send them the React HTML.
+    res.sendFile(__dirname + "/public/index.html");
+  });
+  
 
 //Arrancar la app
 app.listen(port, '0.0.0.0', () => {
