@@ -37,8 +37,8 @@ app.use((req, res, next) => {
 
 app.use(cors({
 credentials: true,
-// origin: ['https://competent-agnesi-9c644c.netlify.app/'] // <== this will be the URL of our React app (it will be running on port 3000)
-origin: ['http://localhost:3000'] 
+origin: ['https://competent-agnesi-9c644c.netlify.app/'] // <== this will be the URL of our React app (it will be running on port 3000)
+// origin: ['http://localhost:3000'] 
 }));
 
 
