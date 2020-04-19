@@ -34,7 +34,13 @@ app.use((req, res, next) => {
     // If no routes match, send them the React HTML.
     res.sendFile(__dirname + "/public/index.html");
   });
-  
+
+app.use(cors({
+credentials: true,
+// origin: ['https://competent-agnesi-9c644c.netlify.app/'] // <== this will be the URL of our React app (it will be running on port 3000)
+origin: ['http://localhost:3000'] 
+}));
+
 
 //Arrancar la app
 app.listen(port, '0.0.0.0', () => {
