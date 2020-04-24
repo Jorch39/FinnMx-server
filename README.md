@@ -9,6 +9,7 @@
 </h1>
 
 <h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir de acuerdo a tu perfil.
+<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir de acuerdo a tu perfil.
 
 </h4>
 
@@ -23,9 +24,10 @@
 
 ## Getting Started
 
-npm install: Install dependencies
-npm run dev: Run server
-npm start: Run client
+- `npm install`: Install dependencies
+- `npm run dev`: Run server
+- `npm start`: Run client
+
 
 ## Built With ❤
 
