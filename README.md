@@ -4,6 +4,7 @@
   <a href="https://competent-agnesi-9c644c.netlify.app/"><img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587769562/logo_rauo61.png" alt="finnmx-logo" width="200"></a>
   <br>
   
+
   <br>
 </h1>
 
@@ -13,14 +14,14 @@
 
 <p align="center">
   <a href="#key-features"> Key Features </a> •
-  <a href="#technologies"> Tecnologías </a> •
-  <a href="#how-to-use"> ¿Cómo usar la app? </a> •
+  <a href="#technologies"> Technologies </a> •
+  <a href="#how-to-use"> How to use </a> •
   <a href="#credits"> Credits </a> •
-  <a href="#related"> Related </a> •
-  <a href="#license"> License </a>
+
 </p>
 
-##
+## Key Features
+
 
 ## Technologies
 
@@ -33,14 +34,17 @@
 
 
 
-## ¿Cómo usar la app?
+## How to use
 
-Registrate 
+Register
 
-Haz login 
+Login
+<img src="  https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/669906B1-CE3F-4987-A838-28AE95F73295_lq2ukq.png" alt="finnmx-logo" width="200">
 
-Llena los 6 pasos del simulador 
+Fill all the formulary 
+<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="finnmx-logo" width="200">
 
-La app te dará tus resultados 
+The app will send you your recommendation 
+<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="finnmx-logo" width="200">
 
-
+## Credits
