@@ -13,25 +13,27 @@
 </h4>
 
 <p align="center">
-  <a href="#key-features"> Key Features </a> •
-  <a href="#technologies"> Technologies </a> •
+  <a href="#key-features"> Getting Started </a> •
+  <a href="#technologies"> Built with </a> •
   <a href="#how-to-use"> How to use </a> •
+  <a href="#credits"> Developed by </a> •
   <a href="#credits"> Credits </a> •
 
 </p>
 
-## Key Features
+## Getting Started
 
+npm install: Install dependencies
+npm run dev: Run server
+npm start: Run client
 
-## Technologies
+## Built With ❤
 
-## Front-End
+### Front-End
 #### • ReactJS, Hooks, Context, Tailwind, AXIOS
 
-## Backend
+### Backend
 #### • MongoDB, ExpressJS, NodeJS, JWT
-
-
 
 
 ## How to use
@@ -50,4 +52,14 @@ The app will send you your recommendation
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="" width="300">
 
+## Developed by 
+
+Jorge Miguel Mendoza
+
 ## Credits
+
+Ironhack
+
+Teacher and TAs 
+
+Gustavo, friend developer
