@@ -39,12 +39,15 @@
 Register
 
 Login
-<img src="  https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/669906B1-CE3F-4987-A838-28AE95F73295_lq2ukq.png" alt="finnmx-logo" width="200">
+
+<img src="  https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/669906B1-CE3F-4987-A838-28AE95F73295_lq2ukq.png" alt="" width="200">
 
 Fill all the formulary 
-<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="finnmx-logo" width="200">
+
+<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="" width="200">
 
 The app will send you your recommendation 
-<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="finnmx-logo" width="200">
+
+<img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="" width="200">
 
 ## Credits
