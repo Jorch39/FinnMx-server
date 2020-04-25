@@ -29,35 +29,35 @@
 ## Built With ❤
 
 ### Front-End
-#### • ReactJS, Hooks, Context, Tailwind, AXIOS
+- `ReactJS, Hooks, Context, Tailwind, AXIOS` 
 
 ### Backend
-#### • MongoDB, ExpressJS, NodeJS, JWT
+- `MongoDB, ExpressJS, NodeJS, JWT`
 
 
 ## How to use
 
-Register
+- `Register`
 
-Login
+- `Login`
 
 <img align="center" src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/669906B1-CE3F-4987-A838-28AE95F73295_lq2ukq.png" alt="" width="300">
 
-Fill all the formulary 
+- `Fill all the formulary`
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="" width="300">
 
-The app will send you your recommendation 
+- `The app will send you your financial recommendation`
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="" width="300">
 
 ## Developed by 
 
-Jorge Miguel Mendoza
+- `Jorge Miguel Mendoza`
 
 ## Credits
 
-- `Ironhack`: Install dependencies
-- `Teacher and TAs `: Run server
-- `Gustavo, friend developer`: Run server
+- `Ironhack`
+- `Teacher and TAs `
+- `Gustavo, friend developer`
 
