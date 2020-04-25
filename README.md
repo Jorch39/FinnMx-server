@@ -13,7 +13,7 @@
 <br>
 <p align="center">
   <a href="#key-features"> Getting Started </a> •
-  <a href="#technologies"> Built With ❤ </a> •
+  <a href="#technologies"> Developed With </a> •
   <a href="#how-to-use"> How to use </a> •
   <a href="#credits"> Developed by </a> •
   <a href="#credits"> Credits </a> •
@@ -26,7 +26,7 @@
 - `npm start`: Run client
 
 
-## Built With ❤
+## Developed With 
 
 ### Front-End
 - `ReactJS, Hooks, Context, Tailwind, AXIOS` 
@@ -43,10 +43,12 @@
 
 <img align="center" src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/669906B1-CE3F-4987-A838-28AE95F73295_lq2ukq.png" alt="" width="300">
 <br>
-- `Fill all your informatio`
+
+- `Fill all your information`
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/76F4058F-7A65-4CA8-8440-8ED6CCCE334B_i7wppg.png" alt="" width="300">
 <br>
+
 - `The app will send you your financial recommendation`
 
 <img src="https://res.cloudinary.com/dgg70srom/image/upload/v1587771414/8DA30760-041E-43C2-95BF-BD0096BB8DA0_qo5bje.png" alt="" width="300">
