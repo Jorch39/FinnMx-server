@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir tu dinero.</h4> <h4 align="center">Utiliza Machine Learning para poder recomendarte la opcion que mejor se adecue de acuerdo a tu informacion financiera </h4>
+<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir tu dinero.</h4> <h4 align="center">Utiliza Machine Learning para poder recomendarte la opcion que mejor se adecue de acuerdo a tu informacion financiera.</h4>
 
 <br>
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="#technologies"> Developed With </a> •
   <a href="#how-to-use"> How to use </a> •
   <a href="#credits"> Developed by </a> •
-  <a href="#credits"> Credits </a> •
+  <a href="#credits"> Credits </a> 
 </p>
 <br>
 
@@ -30,7 +30,7 @@
 ## Developed With 
 
 ### Front-End
-- `ReactJS, Hooks, Context, Tailwind, AXIOS` 
+- `ReactJS, Hooks, Context, AXIOS, Tailwind` 
 
 ### Backend
 - `MongoDB, ExpressJS, NodeJS, JWT`
@@ -57,7 +57,7 @@
 
 ## Developed by 
 
-* **Jorge Mendoza** - - [Jorch39](https://github.com/Jorch39)
+* **Jorge Mendoza** - [Jorch39](https://github.com/Jorch39)
 
 ## Credits
 
