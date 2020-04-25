@@ -8,10 +8,7 @@
   <br>
 </h1>
 
-<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir de acuerdo a tu perfil.
-<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir de acuerdo a tu perfil.
-
-</h4>
+<h4 align="center">FinnMx te ayuda a tener mejor visibilidad de instrumentos financieros donde puedes invertir tu dinero. Utiliza Machine Learning para poder recomendarte la opcion que mejor se adecue de acuerdo a tu informacion financiera </h4>
 
 <p align="center">
   <a href="#key-features"> Getting Started </a> •
@@ -60,8 +57,7 @@ Jorge Miguel Mendoza
 
 ## Credits
 
-Ironhack
+- `Ironhack`: Install dependencies
+- `Teacher and TAs `: Run server
+- `Gustavo, friend developer`: Run server
 
-Teacher and TAs 
-
-Gustavo, friend developer
