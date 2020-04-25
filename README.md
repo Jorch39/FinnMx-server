@@ -22,7 +22,8 @@
 
 ## Getting Started
 
-- `npm install`: Install dependencies
+- `APP Mobile First`
+
 - `npm run dev`: Run server
 - `npm start`: Run client
 
@@ -35,6 +36,8 @@
 ### Backend
 - `MongoDB, ExpressJS, NodeJS, JWT`
 
+### DataScience
+- `Machine Learning model, decision tree, python`
 
 ## How to use
 
