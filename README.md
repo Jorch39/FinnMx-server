@@ -12,13 +12,12 @@
 
 <p align="center">
   <a href="#key-features"> Getting Started </a> •
-  <a href="#technologies"> Built with </a> •
+  <a href="#technologies"> Built With ❤ </a> •
   <a href="#how-to-use"> How to use </a> •
   <a href="#credits"> Developed by </a> •
   <a href="#credits"> Credits </a> •
-
 </p>
-
+<br>
 ## Getting Started
 
 - `npm install`: Install dependencies
@@ -53,7 +52,7 @@
 
 ## Developed by 
 
-- `Jorge Miguel Mendoza`
+* **Jorge Mendoza** - - [Jorch39](https://github.com/Jorch39)
 
 ## Credits
 
